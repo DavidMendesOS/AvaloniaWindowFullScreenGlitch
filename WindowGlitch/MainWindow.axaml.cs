@@ -46,7 +46,7 @@ namespace WindowGlitch
                 Height = 250,
                 Width = 250,
                 Position = new PixelPoint(0,0),
-                SystemDecorations = SystemDecorations.None
+                SystemDecorations = SystemDecorations.BorderOnly
             };
             
             newWindow.Show();
